@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Blueprints/State_Wiz.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/BlockGame/Maps/BlockGameMap.umap",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Blueprints/BP_Bomb.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Blueprints/Monsters/BP_BossDragon.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Blueprints/BP_Magic.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Blueprints/BP_Pursuer.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Blueprints/Monsters/BP_PursuerCharacter.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Blueprints/BP_WidgetHealth.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Blueprints/BP_Wiz.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/MsvFx_Niagara_Explosion_Pack_01/Resources/Materials/MasterMTL/M_Granular_Exp.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Fab/Sun/Planet.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Fab/Sun/sun.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Fab/Sun/sun_texture_0.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Fab/Sun/sun_texture_1.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Fab/Sun/sun_texture_2.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/BattleWizardPolyart/Animations/UE4_Mannequin_Skeleton_Sequence.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Blueprints/BP_Wiz_Health.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Blueprints/BP_Mortar.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Blueprints/BP_Platform.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Blueprints/BP_WidgetFinished.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/Blueprints/BP_Zombie.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/MsvFx_Niagara_Explosion_Pack_01/Resources/Materials/MasterMTL/M_Ground.uasset",
+				"/Users/kervi1/Documents/Unreal Projects/MP2/Content/LearningKit_Games/Blueprints/Interactables/PlayerButton_BP.uasset"
+			]
+		}
+	]
+}
